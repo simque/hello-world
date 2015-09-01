@@ -1,2 +1,4 @@
 # hello-world
 my first github repository
+
+Hi all! I'm Simque, renaissance man in the machine.  I'm new to coding and am using the Flatiron School's pre-work to prepare myself for entrance into a web development bootcamp (considering Flatiron, Fullstack Academy, and Hack Reactor Remote beta programs).  My dream job is legion: musician, choreographer, screenwriter, and crisis manager at Olivia Pope & Associates.  But in terms of a career as a fullstack engineer, I've got my sights set on Brooklyn's Rap Genius.  I like that it is a very ambitious platform that combines coding, culture, and education.  I didn't grow up a tech geek or gamer (I still prefer the feel of real books to their e-versions), so becoming about-this-coding-life will prove to be just what makes things worthwhile: a struggle!  Turn down for what! :D
